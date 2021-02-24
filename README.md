@@ -30,7 +30,7 @@ This csv file contains the batch corrected gene expression data.
 <strong>combat_probeset_all_filtered.csv</strong><br>
 This file contains filtered results from all three filters in 4.1, 4.2, and 4.3 in analyst part
 
-<strong>combat_probeset_bio_filtered.csv</strong><br>
+<strong>combat_probeset_bio_filtered.csv</strong> (file is too big to upload)<br>
 This file contains filtered results from 4.2 in analyst part. This file will pass to the biologist to do further analysis
 
 <strong>heatmap.png</strong><br>
@@ -39,7 +39,7 @@ This png file contains the hierarchical clustering heatmap for analyst part
 <strong>combat_welch_results.csv</strong><br>
 This file contains the results of the Welch t-test for all genes irrespective of significance for each subtype comparison
 
-<strong>bio_combat_welch_results.csv</strong> (file is too big to upload)<br>
+<strong>bio_combat_welch_results.csv</strong><br>
 This file contains the results of the Welch t-test for all genes irrespective of significance for each subtype comparison but with the t-test results computed on the expression matrix from 4.5.
 
 
