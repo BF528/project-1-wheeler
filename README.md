@@ -18,10 +18,10 @@ This pdf file contains the detailed analysis of the project 1 write-up
 Provide a brief description of project_1_programmer.R
 This R script contains all of the analytic code used by the programmer in our group to perform the normalization, background correction, quality control assessment, and principal component analysis of the gene expression data. 
 
-<strong>rma_normalized.csv</strong><br>
+<strong>rma_normalized.csv</strong> (file is too big to upload)<br>
 This csv file contains all of the normalized and background corrected gene expression data.
 
-<strong>combat_edata.csv</strong><br>
+<strong>combat_edata.csv</strong> (file is too big to upload)<br>
 This csv file contains the batch corrected gene expression data.
 
 <strong>project_1_analyst.R</strong><br>
@@ -39,7 +39,7 @@ This png file contains the hierarchical clustering heatmap for analyst part
 <strong>combat_welch_results.csv</strong><br>
 This file contains the results of the Welch t-test for all genes irrespective of significance for each subtype comparison
 
-<strong>bio_combat_welch_results.csv</strong><br>
+<strong>bio_combat_welch_results.csv</strong> (file is too big to upload)<br>
 This file contains the results of the Welch t-test for all genes irrespective of significance for each subtype comparison but with the t-test results computed on the expression matrix from 4.5.
 
 
